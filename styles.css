@@ -37,10 +37,14 @@
 }
 
 #navbar-logo {
-    color: var(--white);
     justify-self: start;
     cursor: pointer;
     letter-spacing: .2rem;
+}
+
+#navbar-logo a {
+    text-decoration: none;
+    color: var(--white);
 }
 
 .nav-menu {
@@ -59,7 +63,7 @@
     }
 }
 
-nav a {
+.nav-links {
     text-decoration: none;
     display: block;
     position: relative;
@@ -67,13 +71,13 @@ nav a {
     text-transform: uppercase;
 }
 
-nav a:after {
+.nav-links:after {
     content: "";
     width: 0;
     height: 1px;
     position: absolute;
     left: 0;
-    bottom: -3px;
+    bottom: -4px;
     background: var(--white);
     transition: width .3s linear;
 }
