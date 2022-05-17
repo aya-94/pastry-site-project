@@ -726,11 +726,11 @@ footer .text-block button:hover {
 
 @media screen and (max-width: 600px) {
     #contact-page .text-block span {
-        font-size: 3vw;
+        font-size: 3.5vw;
         line-height: 1.em;
     }
     #contact-page h3 {
-        font-size: 4vw;
+        font-size: 4.5vw;
     }
     #contact-page .text-block {
         gap: 0 10px;
