@@ -1,7 +1,11 @@
 # pastry-site-project
 
-A project of pasrty site using HTML, CSS, JS and a JS library 'JS-tilt'
+An assignment I focused on creating a responsive site using 
 
-link to watch => https://aya-94.github.io/pastry-site-project/
+flexbox & grid and used HTML, CSS, JS & a JS library ‘Tilt.js’.
+
+---
+
+[Demo](https://aya-94.github.io/pastry-site-project/)
 
 ![](./images/crust-image.png)
