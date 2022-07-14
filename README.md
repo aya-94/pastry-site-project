@@ -8,4 +8,4 @@ flexbox & grid and used HTML, CSS, JS & a JS library ‘Tilt.js’.
 
 [Demo](https://aya-94.github.io/pastry-site-project/)
 
-![](./images/crust-image.png)
+![](./images/Pastry-Site.jpg)
